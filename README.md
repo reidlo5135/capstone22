@@ -47,7 +47,7 @@
 - IDE - IntelliJ IDEA Ultimate, Visual Studio Code
 
 ## <b>개발일지</b>
-# [2022-09-07]
+### [2022-09-07]
 - <a href="https://github.com/reidlo5135/CAPSTONE2022-HanShake-v2.0.0.git ">GitHub Repository 개설</a>
 - Spring Boot 서버 개설(DataBase 작업용)
 - Node-Express.ts 서버 개설(Crawling 작업용)
