@@ -5,9 +5,9 @@
 졸업작품 소개 사이트 : <b><a href="https://github.com/reidlo5135/capstone22">미완</a></b><br>
 
 ## <b>졸업 작품 소개</b>
-작품명 : <br>
-작품 소개 : <br>
-작품 특징 : <br>
+작품명 : HANDSHAKE(핸드쉐이크)<br>
+작품 소개 : <b>HANDSHAKE</b>란 AI(Artificial-Intelligence)를 활용하여 청각장애인을 위한 대림대학교 정보 소개 Web Application<br>
+작품 특징 : <b>HANDSHAKE</b>는 사용자가 취하는 모습을 촬영 후 AI로 인식하여 원하는 기능을 맞추어 제공하는 Web Service<br>
 
 ## <b>개발환경</b>
 <span><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
