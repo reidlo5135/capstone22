@@ -61,7 +61,7 @@
 <li>공지사항(Notice) Crawling 후 REST API 개설(요청 / 응답 테스트 성공)</li>
 </ul>
 
-<strong>- Spring Boot - DataBase Only Server</strong>
+<strong>Spring Boot - DataBase Only Server</strong>
 <ul>
 <li>Node-Express.ts 서버 URL(http://localhost:5000/v2/api/diet/**)로 금주의밥상(Diet) 요청 후 응답받은 Data를 토대로 Modeling & DataBase 저장 성공</li>
 <li>Node-Express.ts 서버 URL(http://localhost:5000/v2/api/notice/**)로 공지사항(Notice) 요청 후 응답받은 Data를 토대로 Modeling & DataBase 저장 성공</li>
