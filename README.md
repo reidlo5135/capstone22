@@ -3,6 +3,7 @@
 팀원 : 김동호(FE, 팀장), 진승범(FE), 강준모(BE)<br>
 졸업작품 소개 사이트 : <b><a href="https://github.com/kimdongho321/capstone22">미완</a></b><br>
 졸업작품 소개 사이트 : <b><a href="https://github.com/reidlo5135/capstone22">미완</a></b><br>
+<a href="https://github.com/reidlo5135/CAPSTONE2022-HanShake-v2.0.0.git">GitHub 주소</a>
 
 ## <b>졸업 작품 소개</b>
 작품명 : <b>HANDSHAKE(핸드쉐이크)</b><br>
