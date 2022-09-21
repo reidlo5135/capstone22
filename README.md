@@ -48,12 +48,6 @@
 - IDE - IntelliJ IDEA Ultimate, Visual Studio Code
 
 ## <b>개발일지</b>
-### [2022-09-07]
-- <a href="https://github.com/reidlo5135/CAPSTONE2022-HanShake-v2.0.0.git ">GitHub Repository 개설</a>
-- Spring Boot 서버 개설(DataBase 작업용)
-- Node-Express.ts 서버 개설(Crawling 작업용)
-- puppeteer-core 모듈을 통한 Crawling 1차 성공
-
 ### [2022-09-14]
 <strong>Node-Express.ts - Only Crawling Server</strong>
 <ul>
@@ -67,4 +61,10 @@
 <li>Node-Express.ts 서버 URL(http://localhost:5000/v2/api/diet/**)로 금주의밥상(Diet) 요청 후 응답받은 Data를 토대로 Modeling & DataBase 저장 성공</li>
 <li>Node-Express.ts 서버 URL(http://localhost:5000/v2/api/notice/**)로 공지사항(Notice) 요청 후 응답받은 Data를 토대로 Modeling & DataBase 저장 성공</li>
 </ul>
+
+### [2022-09-07]
+- <a href="https://github.com/reidlo5135/CAPSTONE2022-HanShake-v2.0.0.git ">GitHub Repository 개설</a>
+- Spring Boot 서버 개설(DataBase 작업용)
+- Node-Express.ts 서버 개설(Crawling 작업용)
+- puppeteer-core 모듈을 통한 Crawling 1차 성공
 
