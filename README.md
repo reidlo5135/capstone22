@@ -48,6 +48,24 @@
 - IDE - IntelliJ IDEA Ultimate, Visual Studio Code
 
 ## <b>개발일지</b>
+### [2022-09-21]
+<strong>Node-Express.ts - Only Crawling Server</strong>
+<ul>
+<li>공지사항(Notice) 中 학사공지(Bachelor), 입찰공고(Bid), 장학/대출(Scholar), 행정부서(AnD)로 Crawling Logic 구분</li>
+<li>학교 연간일정(Schedule) Crawling 후 REST API 개설(요청 / 응답 테스트 성공)</li>
+</ul>
+
+<strong>Spring Boot - Only DataBase Server</strong>
+<ul>
+<li>Node-Express.ts 서버 URL(http://localhost:5000/v2/api/notice/**)로 공지사항(Notice) 요청 후 공지 종류에 따라 Enumeration Class 생성 후 DB에 구분하여 save</li>
+<li>Node-Express.ts 서버 URL(http://localhost:5000/v2/api/schedule)로 학교 연간일정(Schedule) 요청 후 응답 Data를 Modeling * DataBase Save 성공</li>
+</ul>
+
+<strong>React - FrontEnd</strong>
+<ul>
+<li>Spring Boot Server(http://localhost:8080/v1/api/**/**)에 저장된 DataBase Data(REST API Resource) 요청하는 Axios Request Logic 개설 후 정상 통신 성공</li>
+</ul>
+
 ### [2022-09-14]
 <strong>Node-Express.ts - Only Crawling Server</strong>
 <ul>
