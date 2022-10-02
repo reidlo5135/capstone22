@@ -48,6 +48,24 @@
 - IDE - IntelliJ IDEA Ultimate, Visual Studio Code
 
 ## <b>개발일지</b>
+### [2022-09-28]
+<strong>Node-Express.ts - Only Crawling Server</strong>
+<ul>
+<li>변동/특이 사항 없음</li>
+</ul>
+
+<strong>Spring Boot - Only DataBase Server</strong>
+<ul>
+<li>DataBase Model Class(Diet, Schedule, Notice)의 findAll(DataBase - select * from xxx) Method Logic 수정</li>
+<li>※ 기존 Model Class 객체의 List를 반환하여 Client에 응답하던 Logic을 DtoClass의 객체로 변경하여 불필요한 Data는 Response Data에서 제외</li>
+</ul>
+
+<strong>React - FrontEnd</strong>
+<ul>
+<li>Server(Spring Boot)로 부터 받아온 Diet Data를 JSON으로 Parse 후에 table 구성</li>
+</ul>
+
+
 ### [2022-09-21]
 <strong>Node-Express.ts - Only Crawling Server</strong>
 <ul>
