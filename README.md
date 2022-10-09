@@ -48,6 +48,22 @@
 - IDE - IntelliJ IDEA Ultimate, Visual Studio Code
 
 ## <b>개발일지</b>
+### [2022-10-05]
+<strong>Node-Express.ts - Only Crawling Server</strong>
+<ul>
+<li>변동/특이 사항 없음</li>
+</ul>
+
+<strong>Spring Boot - Only DataBase Server</strong>
+<ul>
+<li>DataBase ORM(JPA) 관련 발생 가능한 Unchecked Exception(Runtime Exception) 예상 후 Custom Exception 생성 후 Exception Advice에 적용 </li>
+</ul>
+
+<strong>React - FrontEnd</strong>
+<ul>
+<li>Server(Spring Boot)로 부터 받아온 Diet Data를 JSON으로 Parse 후 JavaScript의 map 함수로 HTML ELEMENT 구성</li>
+</ul>
+
 ### [2022-09-28]
 <strong>Node-Express.ts - Only Crawling Server</strong>
 <ul>
