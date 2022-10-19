@@ -48,6 +48,38 @@
 - IDE - IntelliJ IDEA Ultimate, Visual Studio Code
 
 ## <b>개발일지</b>
+### [2022-10-19]
+<strong>Node-Express.ts - Only Crawling Server</strong>
+<ul>
+<li>Spring Server에서 온 요청을 처리하기 위한 CORS 세팅</li>
+</ul>
+
+<strong>Spring Boot - Only DataBase Server</strong>
+<ul>
+<li>Client(React)로부터 온 요청 처리 위한 CORSConfiguration 설정</li>
+</ul>
+
+<strong>React - FrontEnd</strong>
+<ul>
+<li>변동/특이 사항 없음</li>
+</ul>
+
+### [2022-10-12]
+<strong>Node-Express.ts - Only Crawling Server</strong>
+<ul>
+<li>Server 배포 테스트 진행</li>
+</ul>
+
+<strong>Spring Boot - Only DataBase Server</strong>
+<ul>
+<li>변동/특이 사항 없음</li>
+</ul>
+
+<strong>React - FrontEnd</strong>
+<ul>
+<li>Component 구조 분리 및 정리</li>
+</ul>
+
 ### [2022-10-05]
 <strong>Node-Express.ts - Only Crawling Server</strong>
 <ul>
@@ -56,7 +88,7 @@
 
 <strong>Spring Boot - Only DataBase Server</strong>
 <ul>
-<li>DataBase ORM(JPA) 관련 발생 가능한 Unchecked Exception(Runtime Exception) 예상 후 Custom Exception 생성 후 Exception Advice에 적용 </li>
+<li>DataBase ORM(JPA) 관련 발생 가능한 Unchecked Exception(Runtime Exception) 예상 후 Custom Exception 생성 후 Exception Advice에 적용</li>
 </ul>
 
 <strong>React - FrontEnd</strong>
