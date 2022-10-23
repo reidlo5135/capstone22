@@ -52,11 +52,13 @@
 <strong>Node-Express.ts - Only Crawling Server</strong>
 <ul>
 <li>Spring Server에서 온 요청을 처리하기 위한 CORS 세팅</li>
+<li>Facility(시설) 관련 Crawling 세팅</li>
 </ul>
 
 <strong>Spring Boot - Only DataBase Server</strong>
 <ul>
 <li>Client(React)로부터 온 요청 처리 위한 CORSConfiguration 설정</li>
+<li>Facility(시설) 관련 API Class 생성(Model, Service, Controller)</li>
 </ul>
 
 <strong>React - FrontEnd</strong>
