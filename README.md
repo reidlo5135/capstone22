@@ -48,6 +48,23 @@
 - IDE - IntelliJ IDEA Ultimate, Visual Studio Code
 
 ## <b>개발일지</b>
+### [2022-10-26]
+<strong>Node-Express.ts - Only Crawling Server</strong>
+<ul>
+<li>Facility(시설) 관련 Crawling API 개설 완료 - 건물, 학과, 복지시설로 구분 후 json 형식 데이터 제공</li>
+</ul>
+
+<strong>Spring Boot - Only DataBase Server</strong>
+<ul>
+<li>Facility(시설) Model 구조 수정</li>
+<li>Facility(시설) API 요청 후 응답 받아온 json data를 java Map으로 변환 후 DataBase 저장</li>
+</ul>
+
+<strong>React - FrontEnd</strong>
+<ul>
+<li>변동/특이 사항 없음</li>
+</ul>
+
 ### [2022-10-19]
 <strong>Node-Express.ts - Only Crawling Server</strong>
 <ul>
