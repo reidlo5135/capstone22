@@ -62,7 +62,8 @@
 
 <strong>React - FrontEnd</strong>
 <ul>
-<li>변동/특이 사항 없음</li>
+<li>Calendar(학사일정) 퍼블리싱 오류 수정</li>
+<li>카메라 인식 및 구동 오류 수정</li>
 </ul>
 
 ### [2022-10-19]
