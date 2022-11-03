@@ -48,7 +48,7 @@
 - IDE - IntelliJ IDEA Ultimate, Visual Studio Code
 
 ## <b>개발일지</b>
-### [2022-11-2]
+### [2022-11-02]
 <strong>Node-Express.ts - Only Crawling Server</strong>
 <ul>
 <li>변동 사항 없음</li>
