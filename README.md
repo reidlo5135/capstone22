@@ -48,6 +48,23 @@
 - IDE - IntelliJ IDEA Ultimate, Visual Studio Code
 
 ## <b>개발일지</b>
+### [2022-11-2]
+<strong>Node-Express.ts - Only Crawling Server</strong>
+<ul>
+<li>변동 사항 없음</li>
+</ul>
+
+<strong>Spring Boot - Only DataBase Server</strong>
+<ul>
+<li>Facility(시설) Service API 구분</li>
+<li>시설 용도에 따라 건물(Building), 학과(Department), 복지시설(Welfare)로 Enumeration 구성 후 API 개별 개설</li>
+</ul>
+
+<strong>React - FrontEnd</strong>
+<ul>
+<li>변동 사항 </li>
+</ul>
+
 ### [2022-10-26]
 <strong>Node-Express.ts - Only Crawling Server</strong>
 <ul>
