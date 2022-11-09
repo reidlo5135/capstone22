@@ -48,6 +48,24 @@
 - IDE - IntelliJ IDEA Ultimate, Visual Studio Code
 
 ## <b>개발일지</b>
+### [2022-11-09]
+<strong>Node-Express.ts - Only Crawling Server</strong>
+<ul>
+<li>전체 API 리팩토링 사전 작업</li>
+<li>PromiseWrapper, AsyncWrapper 중복 코드 제거 및 로직 수정</li>
+</ul>
+
+<strong>Spring Boot - Only DataBase Server</strong>
+<ul>
+<li>전체 API 리팩토링 사전 작업</li>
+<li>Enumeration Class들 디렉토리 </li>
+</ul>
+
+<strong>React - FrontEnd</strong>
+<ul>
+<li>변동 사항 없음</li>
+</ul>
+
 ### [2022-11-02]
 <strong>Node-Express.ts - Only Crawling Server</strong>
 <ul>
