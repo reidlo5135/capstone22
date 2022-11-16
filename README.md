@@ -40,12 +40,30 @@
 - Design - Figma, Adobe Xd
 - Frontend - React.js, HTML5, CSS3, JavaScript, MediaPipe, TensorFlow
 - Backend - Spring Boot, REST API, Swagger, Java(11), Node-Express, TypeScript
-- Database - MySQL8.0, Spring Data JPA, AWS RDS, AWS S3
-- WAS - Apache Tomcat, AWS EC2
+- Database - MySQL8.0, Spring Data JPA
+- WAS - Apache Tomcat
 - Version Control - Git, GitHub, Git Kraken
 - IDE - IntelliJ IDEA Ultimate, Visual Studio Code
 
 ## <b>개발일지</b>
+### [2022-11-16]
+<strong>Node-Express.ts - Only Crawling Server</strong>
+<ul>
+<li>전체 API 리팩토링 진행 중</li>
+</ul>
+
+<strong>Spring Boot - Only DataBase Server</strong>
+<ul>
+<li>전체 API 리팩토링 진행 중</li>
+<li>AWS RDS 기간 만료로 인한 DataBase 정보 변경</li>
+<li>RDS -> Local DataBase</li>
+</ul>
+
+<strong>React - FrontEnd</strong>
+<ul>
+<li>변동 사항 없음</li>
+</ul>
+
 ### [2022-11-09]
 <strong>Node-Express.ts - Only Crawling Server</strong>
 <ul>
