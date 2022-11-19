@@ -1,7 +1,7 @@
 # **2022년 2학기 졸업작품(캡스톤 디자인)**
 팀명 : I들<br>
 팀원 : 김동호(FE, 팀장), 진승범(FE), 강준모(FS)<br>
-작업 GitHub Repository 주소 : <a href="https://github.com/reidlo5135/CAPSTONE2022-HanShake-v2.0.0.git">link</a>
+<a href="https://github.com/reidlo5135/CAPSTONE2022-HanShake-v2.0.0.git">작업 GitHub Repository 주소</a>
 
 ## <b>졸업 작품 소개</b>
 작품명 : <b>HANDSHAKE(핸드쉐이크)</b><br>
