@@ -39,13 +39,31 @@
 
 - Design - Figma, Adobe Xd
 - Frontend - React.js, HTML5, CSS3, JavaScript, MediaPipe, TensorFlow
-- Backend - Spring Boot, REST API, Swagger, Java(11), Node-Express, TypeScript
+- Backend - Spring Boot, Swagger, Java 11, Node-Express, TypeScript
 - Database - MySQL8.0, Spring Data JPA
 - WAS - Apache Tomcat
 - Version Control - Git, GitHub, Git Kraken
 - IDE - IntelliJ IDEA Ultimate, Visual Studio Code
 
 ## <b>개발일지</b>
+### [2022-11-23]
+<strong>Node-Express.ts - Only Crawling Server</strong>
+<ul>
+<li>전체 API 리팩토링 마무리 작업</li>
+<li></li>
+</ul>
+
+<strong>Spring Boot - Only DataBase Server</strong>
+<ul>
+<li>전체 API 리팩토링 마무리 작업</li>
+<li>DataBase 정보 삭제</li>
+</ul>
+
+<strong>React - FrontEnd</strong>
+<ul>
+<li>변동 사항 없음</li>
+</ul>
+
 ### [2022-11-16]
 <strong>Node-Express.ts - Only Crawling Server</strong>
 <ul>
