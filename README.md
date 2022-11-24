@@ -5,7 +5,7 @@
 
 ## <b>졸업 작품 소개</b>
 작품명 : <b>HANDSHAKE(핸드쉐이크)</b><br>
-작품 소개 : <b>HANDSHAKE</b>란 AI(Artificial-Intelligence)를 활용하여 청각장애인을 위한 대림대학교 정보 소개 Web Application<br>
+작품 소개 : <b>HANDSHAKE</b>란 AI를 활용하여 청각장애인을 위한 대림대학교 정보 소개 Web Application<br>
 작품 특징 : <b>HANDSHAKE</b>는 사용자가 취하는 모습을 촬영 후 AI로 인식하여 원하는 기능을 맞추어 제공하는 Web Service<br>
 
 ## <b>개발환경</b>
