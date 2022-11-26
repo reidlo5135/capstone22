@@ -1,5 +1,5 @@
 # **2022년 2학기 졸업작품(캡스톤 디자인)**
-<b>대림대학교 컴퓨터정보학부 스마트소프트웨어전공</b>
+<b>대림대학교 컴퓨터정보학부 스마트소프트웨어전공</b><br>
 팀명 : I-DLE<br>
 팀원 : 김동호(FE, 팀장), 진승범(FE), 강준모(FS)<br>
 <a href="https://github.com/reidlo5135/CAPSTONE2022-HanShake-v2.0.0.git">작업 GitHub Repository 주소</a>
